@@ -1,7 +1,5 @@
 #!/usr/bin/env runhaskell
 > {-# OPTIONS_GHC -Wall -Wno-missing-signatures #-}
-> module P0003 where
-
 
 Largest prime factor
 
